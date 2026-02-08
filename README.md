@@ -2,6 +2,7 @@
 
 Sobre mim:
 
+- 🙍‍♂️ Game dev junior
 - 🔭 Atualmente estou desenvolvendo meu TCC, um jogo 2D de exploração e aventura
 - 🌱 Faço curso técnico em Programação de Jogos Digitais no IFRN
 - 💬 Ajudo qualquer um a fazer um jogo
