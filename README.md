@@ -8,6 +8,7 @@ Sobre mim:
 - 💻 Trabalho com C# e Unity2D
 - 💬 Ajudo qualquer um a fazer um jogo
 - 🛠 Fiz parte da equipe de robótica do IFRN - CM e tenho conhecimentos em Arduíno e C++
+- 🎮 [Meus jogos](https://vito061.itch.io)
 
 ##
 
@@ -31,7 +32,25 @@ Sobre mim:
 
 ##
 
-<img align="left" alt="Github Stats de Vitor" src="https://github-readme-stats-alpha-blue-30.vercel.app/api?username=vito6161&show_icons=true&hide_border=true&theme=dark" />
+
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-alpha-blue-30.vercel.app/api?username=vito6161&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-alpha-blue-30.vercel.app/api/top-langs/?username=vito6161&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 
