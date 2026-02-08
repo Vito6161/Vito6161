@@ -5,6 +5,7 @@ Sobre mim:
 - 🙍‍♂️ Game dev junior
 - 🔭 Atualmente estou desenvolvendo meu TCC, um jogo 2D de exploração e aventura
 - 🌱 Faço curso técnico em Programação de Jogos Digitais no IFRN
+- 💻 Trabalho com C# e Unity2D
 - 💬 Ajudo qualquer um a fazer um jogo
 - 🛠 Fiz parte da equipe de robótica do IFRN - CM e tenho conhecimentos em Arduíno e C++
 
