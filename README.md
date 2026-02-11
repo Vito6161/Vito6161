@@ -2,13 +2,14 @@
 
 Sobre mim:
 
-- 🙍‍♂️ Game dev junior
-- 🔭 Atualmente estou desenvolvendo meu TCC, um jogo 2D de exploração e aventura
-- 🌱 Faço curso técnico em Programação de Jogos Digitais no IFRN
-- 💻 Trabalho com C# e Unity2D
-- 💬 Ajudo qualquer um a fazer um jogo
-- 🛠 Fiz parte da equipe de robótica do IFRN - CM e tenho conhecimentos em Arduíno e C++
-- 🎮 [Meus jogos](https://vito061.itch.io)
+- 💬 Fluent in Portuguese and English
+- 🙍‍♂️ Junior Game Developer
+- 🔭 Currently developing my final project: a 2D exploration and adventure game
+- 🌱 Technical student in Digital Game Development at IFRN
+- 💻 Working mainly with C# and Unity (2D)
+- ✨ Always happy to help others bring their game ideas to life
+- 🛠 Former robotics team member, with experience in Arduino and C++
+- 🎮 [My Games](https://vito061.itch.io)
 
 ##
 
@@ -40,14 +41,14 @@ Sobre mim:
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-alpha-blue-30.vercel.app/api?username=vito6161&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats-alpha-blue-30.vercel.app/api?username=vito6161&show_icons=true&hide_border=true&theme=tokyonight" 
   />
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Technologies" 
       height="200" 
-      src="https://github-readme-stats-alpha-blue-30.vercel.app/api/top-langs/?username=vito6161&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-alpha-blue-30.vercel.app/api/top-langs/?username=vito6161&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
