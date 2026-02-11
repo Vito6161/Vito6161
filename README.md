@@ -1,6 +1,6 @@
-## Olá!! me chamo Vitor Gabriel 👋
+## Hi there!! My name is Vitor Gabriel 👋
 
-Sobre mim:
+About me:
 
 - 💬 Fluent in Portuguese and English
 - 🙍‍♂️ Junior Game Developer
